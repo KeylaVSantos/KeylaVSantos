@@ -1,5 +1,6 @@
-### Olá eu sou a Keyla 😊
-
+### Olá, eu sou a Keyla 🙂
+#### Este é meu lugar de estudo sobre programação, seja bem vindo(a)!😊
+#
 <div>
   <a href="https://github.com/KeylaVSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KeylaVSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
