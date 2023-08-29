@@ -1,6 +1,6 @@
 ### Olá, eu sou a Keyla :)
 #### Este é meu lugar de estudo sobre programação, seja bem vindo(a)!
-#### Ainda sou nova nesse ramo :')
+#### Ainda sou nova no ramo :')
 #
 <div>
   <a href="https://github.com/KeylaVSantos">
